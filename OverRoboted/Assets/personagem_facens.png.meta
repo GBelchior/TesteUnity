@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 3b15d01187df5b04eb530dd0823125df
+timeCreated: 1474800161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personagem_facens_0
+    21300002: personagem_facens_2
+    21300004: personagem_facens_3
+    21300006: personagem_facens_4
+    21300008: personagem_facens_5
+    21300010: personagem_facens_14
+    21300012: personagem_facens_16
+    21300014: personagem_facens_17
+    21300016: personagem_facens_18
+    21300018: personagem_facens_19
+    21300020: personagem_facens_21
+    21300022: personagem_facens_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: personagem_facens_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 986
+        width: 1303
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_2
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1071
+        width: 587
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1226
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_4
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1107
+        width: 214
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_5
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1117
+        width: 215
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_14
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 558
+        width: 162
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 145
+        width: 988
+        height: 602
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_17
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 499
+        width: 160
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_18
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 577
+        width: 161
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_19
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 558
+        width: 156
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_21
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 259
+        width: 134
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personagem_facens_22
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 240
+        width: 129
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
